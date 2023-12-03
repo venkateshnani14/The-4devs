@@ -1,0 +1,187 @@
+{
+  "Header": {
+    "title": "We offer development of excellence.",
+    "paragraph": "Our top-level firm of veterans and skillful software engineers are the primary support for our community.We offer solutions of top-notch quality to our clients and manage relations to go longer."
+  },
+  "About": {
+    "paragraph": "We are a firm of experienced software technicians offering software solutions to our clients throughout the world.We believe in long-term engagement, that brings out the best path for our client's businesses to a rapid-thrive.",
+    "Why": [
+      "Security",
+      "Quality that outperforms",
+      "24/7 assistance",
+      "Wide range of technologies"
+    ],
+    "Why2": [
+      "Economical cost",
+      "Customized plans",
+      "Long-term engagement",
+      "Optimal solutions"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa-brands fa-react fa-8x",
+      "name": "Full stack development",
+      "text": "Full stack web application development in various tech stacks"
+    },
+    {
+      "icon": "fa-brands fa-android fa-8x",
+      "name": "Android app development",
+      "text": "Mobile app development using Kotlin or other cross-platform tools"
+    },
+    {
+      "icon": "fa-brands fa-apple fa-8x",
+      "name": "IOS app development",
+      "text": "Building custom IOS applications using native languages or cross-functional tools"
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud computation",
+      "text": "Providing automation solutions for businesses to fasten up the testing and deployment process."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Database Management",
+      "text": "Database management or server maintenance for storing and securing organisation's data"
+    },
+    {
+      "icon": "fa fa-user-group",
+      "name": "Mentorship",
+      "text": "Apart from techincal provisions,we also support teaching freshmen on relevant technologies in the industry."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Incredible work! Exceeded our expectations. A pleasure to work with this talented team! The attention to detail and commitment to perfection truly set them apart.\"",
+      "name": "Toto wolf"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Fast, efficient, and top-notch quality. Our project was in great hands! Their proactive communication and problem-solving skills made the entire process seamless.\"",
+      "name": "Max verstappen"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The go-to freelancers for innovative solutions. Highly recommended! Their creativity and adaptability turned our challenges into opportunities, delivering results beyond imagination.\"",
+      "name": "Daniel radcliffe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Professionalism at its best! They turned our vision into reality. Amazing job! The collaborative spirit and open communication made the project unfold effortlessly.\"",
+      "name": "Miley cyrus"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Responsive, creative, and a pleasure to collaborate with. Their responsiveness to feedback and ability to iterate quickly made the project a success.Will fookin work with them again!\"",
+      "name": "Arthur shelby"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"A game-changer for our business. Thank you for your expertise and dedication! Their commitment to understanding our industry and unique needs made them an invaluable partner.\"",
+      "name": "Eda yildiz"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/001.jpg",
+      "style":"venkatesh",
+      "name": "Venkatesh Kasani",
+      "job": "Senior web-developer"
+    },
+    {
+      "img": "img/team/002.jpg",
+      "name": "Hande Erçel",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/003.jpg",
+      "name": "Dheeraj Netha",
+      "job": "Cloud Architect"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "survey no 14,hitech city,hyderabad,500081",
+    "phone": "+91 8008821371",
+    "email": "stan26304@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "https://twitter.com/254venkatesh",
+    "youtube": "The 4devs",
+    "instagram":"https://instagram.com/venkatesh_nani14"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-bank",
+      "style":"color:#33476c",
+      "title": "Trusted assurance",
+      "text": "Take a look at our testimonials that manifest the work quality we offer to clients of medium-small scale businesses."
+    },
+    {
+      "icon": "fa fa-cloud-bolt",
+      "title": "Lightning delivery",
+      "text": "Our entire firm always respects the valuable time of our clients and believe in upholding our commitments."
+    },
+    {
+      "icon": "fa fa-user-ninja",
+      "title": "Technical support",
+      "text": "Our dedicated technical support team is available round the clock.Whether it's a weekend or middle of a night,we've got you covered."
+    },
+    {
+      "icon": "fa fa-magic-wand-sparkles",
+      "title": "Optimal solutions",
+      "text": "We strive to bring out the most optimum solutions for all of our client statements that help their businesses thrive."
+    }
+  ]
+}
